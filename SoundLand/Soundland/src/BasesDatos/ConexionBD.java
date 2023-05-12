@@ -12,7 +12,7 @@ public class ConexionBD {
         bd="BD_Soundland?zeroDateTimeBehavior=CONVERT_TO_NULL";
         url="jdbc:mysql://127.0.0.1:3306/";
         user="root";
-        password=""; //CONTRASEÑA LOCAL DE MySQL del root
+        password="Tu_Contraseña"; //CONTRASEÑA LOCAL DE MySQL del root
         driver="com.mysql.cj.jdbc.Driver";
     }
     
